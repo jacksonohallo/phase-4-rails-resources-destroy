@@ -10,6 +10,7 @@ In this lesson, we'll continue working on our Bird API by adding a `destroy`
 action, so that clients can use our API to delete birds. To get set up, run:
 
 ```console
+
 $ bundle install
 $ rails db:migrate db:seed
 ```
